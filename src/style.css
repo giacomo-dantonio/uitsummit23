@@ -1,8 +1,16 @@
-.three-columns-grid {
+.two-columns-grid {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
 }
 
-.three-columns-grid > div {
+.two-columns-grid > div {
   padding: 5px;
+}
+
+.star {
+  color: #FF4081;
+}
+
+.se-character th, td {
+  border-bottom: 0px!important;
 }

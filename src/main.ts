@@ -6,6 +6,7 @@ import Reveal from 'reveal.js'
 import RevealNotes from 'reveal.js/plugin/notes/notes'
 
 import '@fortawesome/fontawesome-free/js/brands'
+import '@fortawesome/fontawesome-free/js/regular'
 import '@fortawesome/fontawesome-free/js/solid'
 import '@fortawesome/fontawesome-free/js/fontawesome'
 
