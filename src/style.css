@@ -1,0 +1,8 @@
+.three-columns-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.three-columns-grid > div {
+  padding: 5px;
+}
